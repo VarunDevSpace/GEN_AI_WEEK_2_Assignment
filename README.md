@@ -19,12 +19,6 @@ Each activation function includes:
 - Swish
 - Maxout
 
-## 🛠 Technologies Used
-- Python
-- NumPy
-
-
-
 🛠 Technologies Used
 🐍 Python
 📦 NumPy
