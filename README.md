@@ -14,13 +14,13 @@ Each activation function includes:
 ---
 
 ## 🔢 Activation Functions Implemented
-✔ Sigmoid  
-✔ Tanh 
-✔ ReLU  
-✔ Leaky ReLU 
-✔ Softmax
-✔ Swish  
-✔ Maxout  
+✔ Sigmoid   
+✔ Tanh   
+✔ ReLU   
+✔ Leaky ReLU   
+✔ Softmax  
+✔ Swish   
+✔ Maxout    
 
 ---
 
